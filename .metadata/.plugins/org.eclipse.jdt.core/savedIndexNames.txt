@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\java\udemy\workspace-udemy-java-nelio-alves\ws-javafx\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2962432882.index
+2787183750.index
